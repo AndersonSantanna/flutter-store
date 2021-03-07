@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915227329434",
+    "project_id": "santanna-store",
+    "storage_bucket": "santanna-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915227329434:android:ff3712b13f467782ad7023",
+        "android_client_info": {
+          "package_name": "br.com.santannatecnologias.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915227329434-40isfobn8chctu1p0ee4frq6aogl6qrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08YIjcAym6PrwUJN6yaIv8fDmOeGRPBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915227329434-40isfobn8chctu1p0ee4frq6aogl6qrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
